@@ -18,5 +18,10 @@ I'm a final-year Computer Science student graduating in 2027, passionate about b
 Project Description 
  Ecommerce SQL Analytics](https://github.com/madhulika2028/Ecommerce-sql-analytics) 
            SQL-based e-commerce analytics using MySQL — schema design, joins, aggregations & business insights 
-           
+
+Smart Expense Tracker
+ Java desktop app to track personal expenses with budget monitoring
+  - Tech: Java, JDBC, MySQL, Java Swing, Maven
+  - https://github.com/madhulika2028/smart-expense-tracker
+
 *Open to Java Developer / Software Engineer roles — graduating 2027*
